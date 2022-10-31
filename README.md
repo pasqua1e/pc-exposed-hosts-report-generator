@@ -2,6 +2,9 @@
 This project creates HTML or PDF reports for Vulnerability and Compliance data pulled from a Prisma Cloud tenant. 
 The report is generated only for Hosts exposed to the Internet.
 
+Full credits go to Jason Donahue (timekillerj) who originally created this project and whose code I've almomst enterily reused. 
+ 
+
 ## Setup
 First clone this repo:
 
